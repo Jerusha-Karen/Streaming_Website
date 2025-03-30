@@ -1,5 +1,5 @@
 
-const genere= [
+const genre= [
     {
       "id": 28,
       "name": "Action"
@@ -79,5 +79,5 @@ const genere= [
   ]
 
   export default{
-    genere
+    genre
   }
