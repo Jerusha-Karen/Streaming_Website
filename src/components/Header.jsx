@@ -36,7 +36,7 @@ function Header() {
           </button>
         </div>
 
-        <div className='flex md:hidden gap-5 text-red-600'>
+        <div className='flex md:hidden gap-5 justify-center text-red-600'>
           {menu.map((item, index) => index < 3 && (
             <HeaderItem key={index} name={item.name} Icon={item.icon} />
           ))}
