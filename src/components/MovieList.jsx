@@ -53,7 +53,7 @@ function MovieList({ genreId }) {
         {movies.map((movie) => (
           <div key={movie.id} className="w-48 flex-shrink-0 group">
             <MovieCard movie={movie} />
-            <p className="text-white text-center mt-2 pt-4 text-sm font-semibold transition duration-300 group-hover:shadow-text">
+            <p className="text-blue-800 text-center mt-2 pt-4 text-sm font-semibold transition duration-300 group-hover:text-blue-200">
               {movie.title}
             </p>
           </div>

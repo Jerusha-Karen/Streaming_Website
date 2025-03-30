@@ -6,7 +6,6 @@ import ProductionHouse from "./components/ProductionHouse"
 import GenreMovieList from './components/GenreMovieList'
 
 
-
 function App() {
  
 
