@@ -35,7 +35,7 @@ const Slider = () => {
     <div className="relative w-full h-[350px]"> {/* Increased height */}
 
      <h2 className="text-3xl italic text-white text-center mb-4">
-        ✨ Where Every Night is a Binge Night!! 🍿
+        
       </h2>
 
       <HiChevronLeft
